@@ -1,0 +1,29 @@
+.title{color: #f67690;;}
+
+.ul{
+    list-style: none;
+}
+
+.body{
+    background-color: #eaf6fd;
+}
+
+/* 画像を左　テキストを右側にする */
+
+.olatan{
+    display:inline-block;
+ vertical-align:top; /*縦方向の揃え位置を指定*/
+}
+
+
+.corochan{
+    display:inline-block;
+ vertical-align:top; /*縦方向の揃え位置を指定*/
+    
+}
+
+.olafu{
+    display:inline-block;
+ vertical-align:top; /*縦方向の揃え位置を指定*/
+    
+}
